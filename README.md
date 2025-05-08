@@ -1,6 +1,6 @@
 # Text Translator and Speaker (Python Console App)
 
-This is a Python program that translates English text into a target language and speaks the translated output using Google Text-to-Speech (`gTTS`) and `pygame`.
+This program translates English text into a target language and speaks the translated output using Google Text-to-Speech (`gTTS`) and `pygame`.
 
 ---
 
